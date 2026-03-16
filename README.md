@@ -1,4 +1,4 @@
-# 🐒 Dobáló Majom (Monkey Toss)
+# 🐒 Dobáló Majom
 
 Egy egyszerű játék, menyben a cél: minél több találatot elérni a cikázó denevéren, mielőtt lejár az idő!
 
